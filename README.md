@@ -2,7 +2,6 @@
 
 ### 🚀 About Me
 - 🎓 Computer Science Student.
-- ☕ Currently building a 2D RPG Game from scratch using **Java Swing** (No Game Engine).
 - 🛠️ Interested in Video Game Emulation, Console Modding, and Object-Oriented Programming (OOP).
 
 ---
