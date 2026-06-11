@@ -28,8 +28,3 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </p>
 
----
-
-### 👾 Interests & Fun
-- **Gaming:** fan of JRPGs.
-- **Current Goal:** Practice Java programming and game development.
